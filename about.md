@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Trying to learn stuffs, and refine my own ideas by writing.
+Love to interact with likeminded people all over internet.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ashutoshpadhi220@gmail.com](mailto:ashutoshpadhi220@gmail.com)
